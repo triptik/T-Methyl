@@ -1,0 +1,194 @@
+age,cancer,gender,sample_geo_id,sample_id,tissue_src
+47,1,Male,GSM643162,Prostate Tissue PC159 Tumor,Prostate Tissue PC159
+48,1,Male,GSM643163,Prostate Tissue PC551 Tumor,Prostate Tissue PC551
+54,1,Male,GSM643164,Prostate Tissue PC626 Tumor,Prostate Tissue PC626
+43,1,Male,GSM643165,Prostate Tissue PC15 Tumor,Prostate Tissue PC15
+57,1,Male,GSM643166,Prostate Tissue PC366 Tumor,Prostate Tissue PC366
+63,1,Male,GSM643167,Prostate Tissue PC563 Tumor,Prostate Tissue PC563
+,1,Male,GSM643168,Prostate Tissue PC14 Tumor,Prostate Tissue PC14
+44,1,Male,GSM643169,Prostate Tissue PC166 Tumor,Prostate Tissue PC166
+52,1,Male,GSM643170,Prostate Tissue PC367 Tumor,Prostate Tissue PC367
+71,1,Male,GSM643171,Prostate Tissue PC629 Tumor,Prostate Tissue PC629
+,1,Male,GSM643172,Prostate Tissue PC19.2 Tumor,Prostate Tissue PC19.2
+55,1,Male,GSM643173,Prostate Tissue PC185 Normal,Prostate Tissue PC185
+61,1,Male,GSM643174,Prostate Tissue PC375 Normal,Prostate Tissue PC375
+58,1,Male,GSM643175,Prostate Tissue PC582 Normal,Prostate Tissue PC582
+,1,Male,GSM643176,Prostate Tissue PC21.2 Normal,Prostate Tissue PC21.2
+72,1,Male,GSM643177,Prostate Tissue PC188 Normal,Prostate Tissue PC188
+64,1,Male,GSM643178,Prostate Tissue PC405 Normal,Prostate Tissue PC405
+50,1,Male,GSM643179,Prostate Tissue PC593 Normal,Prostate Tissue PC593
+61,1,Male,GSM643180,Prostate Tissue PC21 Tumor (1),Prostate Tissue PC21
+63,1,Male,GSM643181,Prostate Tissue PC184 Normal,Prostate Tissue PC184
+56,1,Male,GSM643182,Prostate Tissue PC370 Normal,Prostate Tissue PC370
+,1,Male,GSM643183,Prostate Tissue PC19.2 Normal,Prostate Tissue PC19.2
+59,1,Male,GSM643184,Prostate Tissue PC636 Tumor,Prostate Tissue PC636
+57,1,Male,GSM643185,Prostate Tissue PC19 Tumor,Prostate Tissue PC19
+56,1,Male,GSM643186,Prostate Tissue PC45 Tumor,Prostate Tissue PC45
+60,1,Male,GSM643187,Prostate Tissue PC594 Tumor,Prostate Tissue PC594
+53,1,Male,GSM643188,Prostate Tissue PC645 Tumor,Prostate Tissue PC645
+51,1,Male,GSM643189,Prostate Tissue PC47 Tumor,Prostate Tissue PC47
+49,1,Male,GSM643190,Prostate Tissue PC599 Tumor,Prostate Tissue PC599
+64,1,Male,GSM643191,Prostate Tissue PC646 Tumor,Prostate Tissue PC646
+65,1,Male,GSM643192,Prostate Tissue PC252 Tumor,Prostate Tissue PC252
+65,1,Male,GSM643193,Prostate Tissue PC494 Tumor,Prostate Tissue PC494
+71,1,Male,GSM643194,Prostate Tissue PC84 Tumor,Prostate Tissue PC84
+62,1,Male,GSM643195,Prostate Tissue PC274 Tumor,Prostate Tissue PC274
+71,1,Male,GSM643196,Prostate Tissue PC619 Tumor,Prostate Tissue PC619
+47,1,Male,GSM643197,Prostate Tissue PC85 Tumor,Prostate Tissue PC85
+69,1,Male,GSM643198,Prostate Tissue PC538 Tumor,Prostate Tissue PC538
+60,1,Male,GSM643199,Prostate Tissue PC621 Tumor,Prostate Tissue PC621
+65,1,Male,GSM643200,Prostate Tissue PC86 Tumor,Prostate Tissue PC86
+69,1,Male,GSM643201,Prostate Tissue PC343 Tumor,Prostate Tissue PC343
+46,1,Male,GSM643202,Prostate Tissue PC540 Tumor,Prostate Tissue PC540
+64,1,Male,GSM643203,Prostate Tissue PC625 Tumor,Prostate Tissue PC625
+53,1,Male,GSM643204,Prostate Tissue PC97 Tumor,Prostate Tissue PC97
+59,1,Male,GSM643205,Prostate Tissue PC616 Tumor,Prostate Tissue PC616
+71,1,Male,GSM643206,Prostate Tissue PC453 Tumor,Prostate Tissue PC453
+,1,Male,GSM643207,Prostate Tissue PC187 Tumor,Prostate Tissue PC187
+68,1,Male,GSM643208,Prostate Tissue PC423 Tumor,Prostate Tissue PC423
+64,1,Male,GSM643209,Prostate Tissue PC648 Tumor,Prostate Tissue PC648
+68,1,Male,GSM643210,Prostate Tissue PC474 Tumor,Prostate Tissue PC474
+73,1,Male,GSM643211,Prostate Tissue PC99 Tumor,Prostate Tissue PC99
+57,1,Male,GSM643212,Prostate Tissue PC TB2682 Tumor,Prostate Tissue PC TB2682
+66,1,Male,GSM643213,Prostate Tissue PC473 Tumor,Prostate Tissue PC473
+61,1,Male,GSM643214,Prostate Tissue PC21 Tumor (2),Prostate Tissue PC21
+51,1,Male,GSM643215,Prostate Tissue PC480 Tumor,Prostate Tissue PC480
+72,1,Male,GSM643216,Prostate Tissue PC190 Tumor,Prostate Tissue PC190
+45,1,Male,GSM643217,Prostate Tissue PC228 Tumor,Prostate Tissue PC228
+55,1,Male,GSM643218,Prostate Tissue PC430 Tumor,Prostate Tissue PC430
+63,1,Male,GSM643219,Prostate Tissue PC448 Tumor,Prostate Tissue PC448
+,1,Male,GSM643220,Prostate Tissue PC2364 Tumor,Prostate Tissue PC2364
+,1,Male,GSM643221,Prostate Tissue PC191 Tumor,Prostate Tissue PC191
+56,1,Male,GSM643222,Prostate Tissue PC242 Tumor,Prostate Tissue PC242
+62,1,Male,GSM643223,Prostate Tissue PC457 Tumor,Prostate Tissue PC457
+50,1,Male,GSM643224,Prostate Tissue PC498 Tumor,Prostate Tissue PC498
+47,1,Male,GSM643225,Prostate Tissue PC159 Normal,Prostate Tissue PC159
+48,1,Male,GSM643226,Prostate Tissue PC551 Normal,Prostate Tissue PC551
+,1,Male,GSM643227,Prostate Tissue PC14 Normal,Prostate Tissue PC14
+57,1,Male,GSM643228,Prostate Tissue PC366 Normal,Prostate Tissue PC366
+63,1,Male,GSM643229,Prostate Tissue PC563 Normal,Prostate Tissue PC563
+44,1,Male,GSM643230,Prostate Tissue PC166 Normal,Prostate Tissue PC166
+52,1,Male,GSM643231,Prostate Tissue PC367 Normal,Prostate Tissue PC367
+50,1,Male,GSM643232,Prostate Tissue PC575 Normal,Prostate Tissue PC575
+72,1,Male,GSM643233,Prostate Tissue PC188 Tumor,Prostate Tissue PC188
+64,1,Male,GSM643234,Prostate Tissue PC405 Tumor,Prostate Tissue PC405
+50,1,Male,GSM643235,Prostate Tissue PC593 Tumor,Prostate Tissue PC593
+61,1,Male,GSM643236,Prostate Tissue PC643 Tumor,Prostate Tissue PC643
+63,1,Male,GSM643237,Prostate Tissue PC184 Tumor,Prostate Tissue PC184
+56,1,Male,GSM643238,Prostate Tissue PC370 Tumor,Prostate Tissue PC370
+48,1,Male,GSM643239,Prostate Tissue PC579 Tumor,Prostate Tissue PC579
+70,1,Male,GSM643240,Prostate Tissue PC634 Tumor,Prostate Tissue PC634
+55,1,Male,GSM643241,Prostate Tissue PC185 Tumor,Prostate Tissue PC185
+61,1,Male,GSM643242,Prostate Tissue PC375 Tumor,Prostate Tissue PC375
+58,1,Male,GSM643243,Prostate Tissue PC582 Tumor,Prostate Tissue PC582
+57,1,Male,GSM643244,Prostate Tissue PC19 Normal,Prostate Tissue PC19
+56,1,Male,GSM643245,Prostate Tissue PC45 Normal,Prostate Tissue PC45
+60,1,Male,GSM643246,Prostate Tissue PC594 Normal,Prostate Tissue PC594
+66,1,Male,GSM643247,Prostate Tissue PC237 Normal,Prostate Tissue PC237
+51,1,Male,GSM643248,Prostate Tissue PC47 Normal,Prostate Tissue PC47
+49,1,Male,GSM643249,Prostate Tissue PC599 Normal,Prostate Tissue PC599
+65,1,Male,GSM643250,Prostate Tissue PC252 Normal,Prostate Tissue PC252
+,1,Male,GSM643251,Prostate Tissue PC499 Normal,Prostate Tissue PC499
+54,1,Male,GSM643252,Prostate Tissue PC604 Normal,Prostate Tissue PC604
+62,1,Male,GSM643253,Prostate Tissue PC274 Normal,Prostate Tissue PC274
+51,1,Male,GSM643254,Prostate Tissue PC537 Normal,Prostate Tissue PC537
+69,1,Male,GSM643255,Prostate Tissue PC538 Normal,Prostate Tissue PC538
+60,1,Male,GSM643256,Prostate Tissue PC621 Normal,Prostate Tissue PC621
+69,1,Male,GSM643257,Prostate Tissue PC343 Normal,Prostate Tissue PC343
+46,1,Male,GSM643258,Prostate Tissue PC540 Normal,Prostate Tissue PC540
+64,1,Male,GSM643259,Prostate Tissue PC625 Normal,Prostate Tissue PC625
+53,1,Male,GSM643260,Prostate Tissue PC97 Normal,Prostate Tissue PC97
+71,1,Male,GSM643261,Prostate Tissue PC453 Normal,Prostate Tissue PC453
+61,1,Male,GSM643262,Prostate Tissue PC527 Normal,Prostate Tissue PC527
+53,1,Male,GSM643263,Prostate Tissue PC627 Normal,Prostate Tissue PC627
+68,1,Male,GSM643264,Prostate Tissue PC423 Normal,Prostate Tissue PC423
+68,1,Male,GSM643265,Prostate Tissue PC474 Normal,Prostate Tissue PC474
+,1,Male,GSM643266,Prostate Tissue PC363 Normal,Prostate Tissue PC363
+,1,Male,GSM643267,Prostate Tissue PC187 Normal,Prostate Tissue PC187
+71,1,Male,GSM643268,Prostate Tissue PC629 Normal,Prostate Tissue PC629
+73,1,Male,GSM643269,Prostate Tissue PC99 Normal,Prostate Tissue PC99
+66,1,Male,GSM643270,Prostate Tissue PC473 Normal,Prostate Tissue PC473
+72,1,Male,GSM643271,Prostate Tissue PC190 Normal,Prostate Tissue PC190
+70,1,Male,GSM643272,Prostate Tissue PC634 Normal,Prostate Tissue PC634
+63,1,Male,GSM643273,Prostate Tissue PC490 Normal,Prostate Tissue PC490
+51,1,Male,GSM643274,Prostate Tissue PC480 Normal,Prostate Tissue PC480
+59,1,Male,GSM643275,Prostate Tissue PC636 Normal,Prostate Tissue PC636
+55,1,Male,GSM643276,Prostate Tissue PC430 Normal,Prostate Tissue PC430
+63,1,Male,GSM643277,Prostate Tissue PC448 Normal,Prostate Tissue PC448
+62,1,Male,GSM643278,Prostate Tissue PC457 Normal,Prostate Tissue PC457
+50,1,Male,GSM643279,Prostate Tissue PC498 Normal,Prostate Tissue PC498
+,1,Male,GSM643280,Prostate Tissue PC2364 Normal,Prostate Tissue PC2364
+,1,Male,GSM643281,Prostate Tissue PC191 Normal,Prostate Tissue PC191
+73,1,Male,GSM643282,Prostate Tissue PC248 Tumor,Prostate Tissue PC248
+,1,Male,GSM643283,Prostate Tissue PC 2337 Tumor,Prostate Tissue PC 2337
+58,1,Male,GSM643284,Prostate Tissue PC477 Tumor,Prostate Tissue PC477
+66,1,Male,GSM643285,Prostate Tissue PC205 Tumor,Prostate Tissue PC205
+61,1,Male,GSM643286,Prostate Tissue PC485 Tumor,Prostate Tissue PC485
+59,1,Male,GSM643287,Prostate Tissue PC265 Tumor,Prostate Tissue PC265
+53,1,Male,GSM643288,Prostate Tissue PC645 Normal,Prostate Tissue PC645
+62,1,Male,GSM643289,Prostate Tissue PC452 Tumor,Prostate Tissue PC452
+58,1,Male,GSM643290,Prostate Tissue PC477 Normal,Prostate Tissue PC477
+72,1,Male,GSM643291,Prostate Tissue PC398 Tumor,Prostate Tissue PC398
+61,1,Male,GSM643292,Prostate Tissue PC485 Normal,Prostate Tissue PC485
+64,1,Male,GSM643293,Prostate Tissue PC646 Normal,Prostate Tissue PC646
+64,1,Male,GSM643294,Prostate Tissue PC555 Tumor,Prostate Tissue PC555
+56,1,Male,GSM643295,Prostate Tissue PC455 Tumor,Prostate Tissue PC455
+66,1,Male,GSM643296,Prostate Tissue PC S07 8392 Tumor,Prostate Tissue PC S07 8392
+53,1,Male,GSM643297,Prostate Tissue PC88 Normal,Prostate Tissue PC88
+56,1,Male,GSM643298,Prostate Tissue PC455 Normal,Prostate Tissue PC455
+,1,Male,GSM643299,Prostate Tissue PC450 Normal,Prostate Tissue PC450
+62,1,Male,GSM643300,Prostate Tissue PC452 Normal,Prostate Tissue PC452
+,1,Male,GSM643301,Prostate Tissue PC157 Normal,Prostate Tissue PC157
+72,1,Male,GSM643302,Prostate Tissue PC398 Normal,Prostate Tissue PC398
+48,1,Male,GSM643303,Prostate Tissue PC229 Tumor,Prostate Tissue PC229
+66,1,Male,GSM643304,Prostate Tissue PC205 Normal,Prostate Tissue PC205
+67,1,Male,GSM643305,Prostate Tissue PC362 Tumor,Prostate Tissue PC362
+63,1,Male,GSM643306,Prostate Tissue PC348 Tumor,Prostate Tissue PC348
+64,1,Male,GSM643307,Prostate Tissue PC482 Tumor,Prostate Tissue PC482
+61,1,Male,GSM643308,Prostate Tissue PC501 Tumor,Prostate Tissue PC501
+53,1,Male,GSM643309,Prostate Tissue PC S07 9957 Tumor,Prostate Tissue PC S07 9957
+61,1,Male,GSM643310,Prostate Tissue PC501 Normal,Prostate Tissue PC501
+72,1,Male,GSM643311,Prostate Tissue PC S07 8980 Tumor,Prostate Tissue PC S07 8980
+54,1,Male,GSM643312,Prostate Tissue PC393 Normal,Prostate Tissue PC393
+65,1,Male,GSM643313,Prostate Tissue PC86 Normal,Prostate Tissue PC86
+58,1,Male,GSM643314,Prostate Tissue PC335 Tumor,Prostate Tissue PC335
+72,1,Male,GSM643315,Prostate Tissue PC470 Normal,Prostate Tissue PC470
+,1,Male,GSM643316,Prostate Tissue PC299 Normal,Prostate Tissue PC299
+64,1,Male,GSM643317,Prostate Tissue PC491 Tumor,Prostate Tissue PC491
+72,1,Male,GSM643318,Prostate Tissue PC470 Tumor,Prostate Tissue PC470
+64,1,Male,GSM643319,Prostate Tissue PC482 Normal,Prostate Tissue PC482
+58,1,Male,GSM643320,Prostate Tissue PC335 Normal,Prostate Tissue PC335
+57,1,Male,GSM643321,Prostate Tissue PC111 Tumor,Prostate Tissue PC111
+69,1,Male,GSM643322,Prostate Tissue PC233 Normal,Prostate Tissue PC233
+,1,Male,GSM643323,Prostate Tissue PC 2337 Normal,Prostate Tissue PC 2337
+57,1,Male,GSM643324,Prostate Tissue PC111 Normal,Prostate Tissue PC111
+71,1,Male,GSM643325,Prostate Tissue PC84 Normal,Prostate Tissue PC84
+69,1,Male,GSM643326,Prostate Tissue PC233 Tumor,Prostate Tissue PC233
+50,1,Male,GSM643327,Prostate Tissue PC37 Tumor,Prostate Tissue PC37
+50,1,Male,GSM643328,Prostate Tissue PC37 Normal,Prostate Tissue PC37
+64,1,Male,GSM643329,Prostate Tissue PC83 Normal,Prostate Tissue PC83
+64,1,Male,GSM643330,Prostate Tissue PC83 Tumor,Prostate Tissue PC83
+69,1,Male,GSM643331,Prostate Tissue PC92 Tumor,Prostate Tissue PC92
+69,1,Male,GSM643332,Prostate Tissue PC92 Normal,Prostate Tissue PC92
+67,1,Male,GSM643333,Prostate Tissue PC100 Tumor,Prostate Tissue PC100
+61,1,Male,GSM643334,Prostate Tissue PC103 Normal,Prostate Tissue PC103
+,1,Male,GSM643335,Prostate Tissue PC112 Normal,Prostate Tissue PC112
+,1,Male,GSM643336,Prostate Tissue PC112 Tumor,Prostate Tissue PC112
+,1,Male,GSM643337,Prostate Tissue PC153 Tumor,Prostate Tissue PC153
+,1,Male,GSM643338,Prostate Tissue PC153 Normal,Prostate Tissue PC153
+,1,Male,GSM643339,Prostate Tissue PC148 Tumor,Prostate Tissue PC148
+,1,Male,GSM643340,Prostate Tissue PC148 Normal,Prostate Tissue PC148
+,1,Male,GSM643341,Prostate Tissue PC180 Normal,Prostate Tissue PC180
+,1,Male,GSM643342,Prostate Tissue PC180 Tumor,Prostate Tissue PC180
+,1,Male,GSM643343,Primary Prostate Epithelial Culture (mock transfection),Primary Prostate Epithelial Culture (mock transfection)
+,1,Male,GSM643344,Primary Prostate Epithelial Culture (DNMT3B3 and EZH2 overexpressed),Primary Prostate Epithelial Culture (DNMT3B3 and EZH2 overexpressed)
+,1,Male,GSM643345,Primary Prostate Epithelial Culture (DNMT3A overexpressed),Primary Prostate Epithelial Culture (DNMT3A overexpressed)
+,1,Male,GSM643346,Primary Prostate Epithelial Culture (DNMT3B1 and EZH2 overexpressed),Primary Prostate Epithelial Culture (DNMT3B1 and EZH2 overexpressed)
+,1,Male,GSM643347,Primary Prostate Epithelial Culture (DNMT3B2 and EZH2 overexpressed),Primary Prostate Epithelial Culture (DNMT3B2 and EZH2 overexpressed)
+,1,Male,GSM643348,Primary Prostate Epithelial Culture (DNMT3A and EZH2 overexpressed),Primary Prostate Epithelial Culture (DNMT3A and EZH2 overexpressed)
+,1,Male,GSM643349,Primary Prostate Epithelial Culture (DNMT3A2 and EZH2 overexpressed),Primary Prostate Epithelial Culture (DNMT3A2 and EZH2 overexpressed)
+,1,Male,GSM643350,Primary Prostate Epithelial Culture (DNMT3B3 overexpressed),Primary Prostate Epithelial Culture (DNMT3B3 overexpressed)
+,1,Male,GSM643351,Primary Prostate Epithelial Culture (EZH2 overexpressed),Primary Prostate Epithelial Culture (EZH2 overexpressed)
+,1,Male,GSM643352,Primary Prostate Epithelial Culture (DNMT3B2 overexpressed),Primary Prostate Epithelial Culture (DNMT3B2 overexpressed)
+,1,Male,GSM643353,Primary Prostate Epithelial Culture (DNMT3A2 overexpressed),Primary Prostate Epithelial Culture (DNMT3A2 overexpressed)
+,1,Male,GSM643354,Primary Prostate Epithelial Culture (DNMT3B1 overexpressed),Primary Prostate Epithelial Culture (DNMT3B1 overexpressed)
